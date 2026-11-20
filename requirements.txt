@@ -1,0 +1,6 @@
+# ── Dispatch Optimizer (OR-Tools / CP-SAT) ──────────────────────────────────
+# Python 3.11+ required (CP-SAT wheels available for 3.11–3.13).
+ortools>=9.10,<10
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.5
